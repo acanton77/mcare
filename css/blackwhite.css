@@ -1,0 +1,197 @@
+/*!
+ * Start Bootstrap - Full Width Pics HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+/*file://localhost/Users/al/Documents/WP-STUFF/NewMediaCreate/blackwhite/home1.jpg*/
+body {
+    margin-top: 50px; /* Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+.image-bg-fluid-height {
+ 
+	background: url('../img/surgical2.jpg')  center scroll;
+	/* background: url('../img/tools3a.jpg') no-repeat center center scroll; */
+	/* background-color:black; */
+
+    padding: 100px 0;
+/* 
+    background-color: black;
+ */
+    padding-top: 50px;
+}
+
+.image-bg-fixed-height {
+/* 
+	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+ */
+ 
+/*  background: url('../img/tools3a.jpg') no-repeat center center scroll; */
+  background: url('../img/surgical2.jpg')  center scroll;
+	
+    height: 250px;
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+section {
+    padding: 75px 0;
+}
+
+.section-heading {
+    margin: 30px 0;
+    font-size: 4em;
+}
+
+.section-lead {
+    margin: 30px 0;
+}
+
+.section-paragraph {
+    margin: 30px 0;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
+
+/*****************************/
+/*********CHANGES************/
+/*****************************/
+
+/********LINK COLOR*******/
+a {
+  color: #AD002F;
+  }
+  
+
+blockquote {
+  margin-left: 40px;
+  font-size: 17px;
+}
+
+blockquote .small, blockquote footer, blockquote small {
+  
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/******TAKE OUT PADDING FROM SECTION HEADERS************/
+section {
+  padding: 25px 0;
+}
+
+/******BIGGER FONT***********************/
+.section-paragraph, ul {
+
+  font-size: 17px;
+}
+
+.section-paragraph {
+  margin: 16px 0;
+}
+
+
+/*******TITLE ON NAV BAR LARGER**********************/
+  
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+ 
+  color: #FFF;
+  font-size: 25px;
+}
+  
+/*******BACKGROUND FOR HEADER AREA**********************/
+.col-md-12.header-area, .col-md-11.header-area,.col-md-10.header-area {
+background-color: rgba(255, 255, 255, 0.93);
+ 
+ /* background-color:#F7F7F7; */
+ 
+}
+  
+
+/*****HEADER TEXT************************/
+.header-text {
+  color: #000;
+  font-size: 18px;
+  padding-bottom: 30px;
+}
+
+
+.header-text p {
+padding-left: 15px;
+line-height: 1.3;
+}
+
+/******HEADER PICTURE BORDER GIVES PADDING***********************/
+/* 
+ img.header-pix {
+  vertical-align: middle;
+  border-right: 10px;
+  border-right-color: rgba(255, 0, 0, 0);
+  border-right-width: 10px;
+  border-right-style: solid;
+  padding-bottom: 15px;
+}
+ */
+
+
+img.header-pix {
+  padding-bottom: 15px;
+  padding-right: 15px;
+}
+
+
+
+
+
+
+.image-bg-fluid-height, .image-bg-fixed-height {
+  text-align: left;
+}
+
+h1.main-title {
+  text-align: center;
+}
+
+
+
+/******PADDING ON RIGHT OF IMAGE***********************/
+p.section-paragraph img {
+  padding-right: 15px;
+}
+
+/********ISBN BLOCK*********************/
+.isbn-block {
+margin-top: 10px;
+}
+
+@media only screen and (max-width: 479px) {
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  color: #FFF;
+  font-size: 15px !important;
+}
+}
+

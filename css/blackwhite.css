@@ -20,7 +20,12 @@ body {
 
 .image-bg-fluid-height {
  
-	background: url('../img/surgical2.jpg')  center scroll;
+background: url('../img/pills4.jpg')  center scroll;
+
+/* 
+	background: url('../img/surgical2.jpg')  center scroll;	
+ */
+
 	/* background: url('../img/tools3a.jpg') no-repeat center center scroll; */
 	/* background-color:black; */
 
@@ -32,12 +37,24 @@ body {
 }
 
 .image-bg-fixed-height {
+
+background: url('../img/pills4.jpg')  center scroll;
+
+/* 
+  background: url('../img/surgical2.jpg')  center scroll;
+ */
+ 
+ 
 /* 
 	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
  */
  
 /*  background: url('../img/tools3a.jpg') no-repeat center center scroll; */
-  background: url('../img/surgical2.jpg')  center scroll;
+
+
+/* 
+  background: url('../img/pills1.jpg')  center scroll;
+ */
 	
     height: 250px;
 }

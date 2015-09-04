@@ -200,6 +200,11 @@ p.section-paragraph img {
   padding-right: 15px;
 }
 
+img.agent-pix {
+ 
+    padding-bottom: 3px;
+}
+
 /********ISBN BLOCK*********************/
 .isbn-block {
 margin-top: 10px;

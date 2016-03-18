@@ -180,7 +180,7 @@
                             <br> Why do I only sell these two. Because they have the maximum coverage you can get <strong>no matter where you live.</strong>
 
                             <br>
-                            <br> Plan F covers everything Medicare doesn't. No other Medicare Supplemental plan does that. Plan G covers all that F does but with one exception, the $147/yr. Part B deductible. Plan G only makes sense for older people (usually mid 70s.)
+                            <br> Plan F covers everything Medicare doesn't. No other Medicare Supplemental plan does that. Plan G covers all that F does but with one excepiton, the $147/yr. Part B deductible. Plan G only makes sense for older people (usually mid 70s.)
 
                             <br>
                             <br> There are some Medicare Advantage plans (often called MA or MAPD plans) that also cover from "soup to nuts" but MA plans are offered by zip code, often are not in many zip codes, and many of them have restrictions on what docs you can see and what hospitals you can go to. I don't like them, I don't own one, and I don't sell them (no matter how good the money is... and it's pretty good too!)
@@ -193,7 +193,7 @@
                             <br> Why don't I sell other plans? Because I don't think they have the value of either an F or G. My clients and I want the best coverage we can get, no matter what the cost.
 
                             <br>
-                            <br> I'm in my 60s and on Medicare. I have an F. But if I were older I might have a G, because the yearly premium <strong>savings</strong> could be <strong>more</strong> than the $147 Part B deduct (depending on location, age, and company.) 
+                            <br> I'm in my 60s and on Medicare. I have an F. But if I much older I might have a G, because the yearly premium <strong>savings</strong> could be <strong>more</strong> than the $147 Part B deduct (depending on location.) 
 
                             <br>
                             <br> I can explain these plans in four-part harmony and full orchestration if you like. Just give me a call.
@@ -267,7 +267,7 @@
                     
                     <p class="section-paragraph">Why am I showing pill bottles?</p>
 
-                    <p class="section-paragraph">I don't have "happy pix" because buying insurance is not a day in the park. Some insurance agents believe that they can manipulate clients with "warm and fuzzy" pictures and then con their victims into buying a plan from a carrier that the agent gets the highest commission on. </p>
+                    <p class="section-paragraph">I don't have "happy pix" because buying insurance is not a day in the park. Some insurance agents believe that they can manipulate clients with "warm and fuzzy" pictures and then con their victims into buying a plan from a carrier that the agnet gets the highest commission on. </p>
                     
                      <p class="section-paragraph"><strong>Choosing insurance of any kind is serious business and that's how I treat it.</strong> No romping Golden Retrievers here!</p>
 
@@ -426,36 +426,7 @@
                         <br> <i class="fa fa-arrow-circle-right"></i> CA License: 0F31110
                         <br>
 
-                        <i class="fa fa-envelope-o"></i> <!-- <a href="mailto:broker@ancins.com?Subject=Medicare Insurance" target="_top">Email me (click here.)</a> -->
-                        
-                       <!--  <a href='m&#97;ilt&#111;&#58;b&#114;o&#37;6B&#101;r&#64;ancins&#46;c%6Fm'>broke&#114;&#64;&#97;&#110;cins&#46;c&#111;&#109;</a> -->
-                       
-                       
-                       <script type="text/javascript" language="javascript">
-<!--
-// Email obfuscator script 2.1 by Tim Williams, University of Arizona
-// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
-// This code is freeware provided these four comment lines remain intact
-// A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "sSy14S@Tg9LgB.9yE"
-  key = "aO25m1w36fbVetqILT0KlEHDQhAso47CMUFPXJcWrRnGByxdZYkjz8p9vSNgui"
-  shift=coded.length
-  link=""
-  for (i=0; i<coded.length; i++) {
-    if (key.indexOf(coded.charAt(i))==-1) {
-      ltr = coded.charAt(i)
-      link += (ltr)
-    }
-    else {     
-      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-      link += (key.charAt(ltr))
-    }
-  }
-document.write("<a href='mailto:"+link+"'>Email me (click here)</a>")
-}
-//-->
-</script><noscript>Sorry, you need Javascript on to email me.</noscript>
-
+                        <i class="fa fa-envelope-o"></i> <a href="mailto:broker@ancins.com?Subject=Medicare Insurance" target="_top">Email me (click here.)</a>
                     </p>
                 </div>
 
